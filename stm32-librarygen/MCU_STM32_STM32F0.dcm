@@ -1,0 +1,651 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F030C6Tx
+D ARM Cortex-M0, 32 KB Flash, 4 KB RAM, 39 IO Pins, 48 MHz, 2.4V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x0 Value Line
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00088500.pdf
+$ENDCMP
+#
+$CMP STM32F030C8Tx
+D ARM Cortex-M0, 64 KB Flash, 8 KB RAM, 39 IO Pins, 48 MHz, 2.4V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x0 Value Line
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00088500.pdf
+$ENDCMP
+#
+$CMP STM32F030CCTx
+D ARM Cortex-M0, 256 KB Flash, 32 KB RAM, 37 IO Pins, 48 MHz, 2.4V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x0 Value Line
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00088500.pdf
+$ENDCMP
+#
+$CMP STM32F030F4Px
+D ARM Cortex-M0, 16 KB Flash, 4 KB RAM, 15 IO Pins, 48 MHz, 2.4V-3.6V, TSSOP20
+K ARM Cortex-M0 STM32F0 STM32F0x0 Value Line
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00088500.pdf
+$ENDCMP
+#
+$CMP STM32F030K6Tx
+D ARM Cortex-M0, 32 KB Flash, 4 KB RAM, 25 IO Pins, 48 MHz, 2.4V-3.6V, LQFP32
+K ARM Cortex-M0 STM32F0 STM32F0x0 Value Line
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00088500.pdf
+$ENDCMP
+#
+$CMP STM32F030R8Tx
+D ARM Cortex-M0, 64 KB Flash, 8 KB RAM, 55 IO Pins, 48 MHz, 2.4V-3.6V, LQFP64
+K ARM Cortex-M0 STM32F0 STM32F0x0 Value Line
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00088500.pdf
+$ENDCMP
+#
+$CMP STM32F030RCTx
+D ARM Cortex-M0, 256 KB Flash, 32 KB RAM, 51 IO Pins, 48 MHz, 2.4V-3.6V, LQFP64
+K ARM Cortex-M0 STM32F0 STM32F0x0 Value Line
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00088500.pdf
+$ENDCMP
+#
+$CMP STM32F031C6Tx
+D ARM Cortex-M0, 16 KB Flash, 4 KB RAM, 39 IO Pins, 48 MHz, 2V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00104043.pdf
+$ENDCMP
+#
+$CMP STM32F031C4Tx
+D ARM Cortex-M0, 16 KB Flash, 4 KB RAM, 39 IO Pins, 48 MHz, 2V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00104043.pdf
+$ENDCMP
+#
+$CMP STM32F031E6Yx
+D ARM Cortex-M0, 32 KB Flash, 4 KB RAM, 20 IO Pins, 48 MHz, 2V-3.6V, WLCSP25
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00104043.pdf
+$ENDCMP
+#
+$CMP STM32F031F4Px
+D ARM Cortex-M0, 16 KB Flash, 4 KB RAM, 15 IO Pins, 48 MHz, 2V-3.6V, TSSOP20
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00104043.pdf
+$ENDCMP
+#
+$CMP STM32F031F6Px
+D ARM Cortex-M0, 16 KB Flash, 4 KB RAM, 15 IO Pins, 48 MHz, 2V-3.6V, TSSOP20
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00104043.pdf
+$ENDCMP
+#
+$CMP STM32F031G6Ux
+D ARM Cortex-M0, 16 KB Flash, 4 KB RAM, 23 IO Pins, 48 MHz, 2V-3.6V, UFQFPN28
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00104043.pdf
+$ENDCMP
+#
+$CMP STM32F031G4Ux
+D ARM Cortex-M0, 16 KB Flash, 4 KB RAM, 23 IO Pins, 48 MHz, 2V-3.6V, UFQFPN28
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00104043.pdf
+$ENDCMP
+#
+$CMP STM32F031K4Ux
+D ARM Cortex-M0, 16 KB Flash, 4 KB RAM, 27 IO Pins, 48 MHz, 2V-3.6V, UFQFPN32
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00104043.pdf
+$ENDCMP
+#
+$CMP STM32F031K6Ux
+D ARM Cortex-M0, 16 KB Flash, 4 KB RAM, 27 IO Pins, 48 MHz, 2V-3.6V, UFQFPN32
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00104043.pdf
+$ENDCMP
+#
+$CMP STM32F031K6Tx
+D ARM Cortex-M0, 32 KB Flash, 4 KB RAM, 25 IO Pins, 48 MHz, 2V-3.6V, LQFP32
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00104043.pdf
+$ENDCMP
+#
+$CMP STM32F038C6Tx
+D ARM Cortex-M0, 32 KB Flash, 4 KB RAM, 38 IO Pins, 48 MHz, 1.65V-1.95V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00110868.pdf
+$ENDCMP
+#
+$CMP STM32F038E6Yx
+D ARM Cortex-M0, 32 KB Flash, 4 KB RAM, 20 IO Pins, 48 MHz, 1.65V-1.95V, WLCSP25
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00110868.pdf
+$ENDCMP
+#
+$CMP STM32F038F6Px
+D ARM Cortex-M0, 32 KB Flash, 4 KB RAM, 14 IO Pins, 48 MHz, 1.65V-1.95V, TSSOP20
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00110868.pdf
+$ENDCMP
+#
+$CMP STM32F038G6Ux
+D ARM Cortex-M0, 32 KB Flash, 4 KB RAM, 22 IO Pins, 48 MHz, 1.65V-1.95V, UFQFPN28
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00110868.pdf
+$ENDCMP
+#
+$CMP STM32F038K6Ux
+D ARM Cortex-M0, 32 KB Flash, 4 KB RAM, 26 IO Pins, 48 MHz, 1.65V-1.95V, UFQFPN32
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00110868.pdf
+$ENDCMP
+#
+$CMP STM32F042C4Tx
+D ARM Cortex-M0, 16 KB Flash, 6 KB RAM, 38 IO Pins, 48 MHz, 2V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00105814.pdf
+$ENDCMP
+#
+$CMP STM32F042C6Tx
+D ARM Cortex-M0, 16 KB Flash, 6 KB RAM, 38 IO Pins, 48 MHz, 2V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00105814.pdf
+$ENDCMP
+#
+$CMP STM32F042C6Ux
+D ARM Cortex-M0, 32 KB Flash, 6 KB RAM, 38 IO Pins, 48 MHz, 2V-3.6V, UFQFPN48
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00105814.pdf
+$ENDCMP
+#
+$CMP STM32F042F4Px
+D ARM Cortex-M0, 16 KB Flash, 6 KB RAM, 16 IO Pins, 48 MHz, 2V-3.6V, TSSOP20
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00105814.pdf
+$ENDCMP
+#
+$CMP STM32F042F6Px
+D ARM Cortex-M0, 32 KB Flash, 6 KB RAM, 16 IO Pins, 48 MHz, 2V-3.6V, TSSOP20
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00105814.pdf
+$ENDCMP
+#
+$CMP STM32F042G6Ux
+D ARM Cortex-M0, 16 KB Flash, 6 KB RAM, 23 IO Pins, 48 MHz, 2V-3.6V, UFQFPN28
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00105814.pdf
+$ENDCMP
+#
+$CMP STM32F042G4Ux
+D ARM Cortex-M0, 16 KB Flash, 6 KB RAM, 23 IO Pins, 48 MHz, 2V-3.6V, UFQFPN28
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00105814.pdf
+$ENDCMP
+#
+$CMP STM32F042K4Ux
+D ARM Cortex-M0, 16 KB Flash, 6 KB RAM, 28 IO Pins, 48 MHz, 2V-3.6V, UFQFPN32
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00105814.pdf
+$ENDCMP
+#
+$CMP STM32F042K6Ux
+D ARM Cortex-M0, 16 KB Flash, 6 KB RAM, 28 IO Pins, 48 MHz, 2V-3.6V, UFQFPN32
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00105814.pdf
+$ENDCMP
+#
+$CMP STM32F042K6Tx
+D ARM Cortex-M0, 32 KB Flash, 6 KB RAM, 26 IO Pins, 48 MHz, 2V-3.6V, LQFP32
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00105814.pdf
+$ENDCMP
+#
+$CMP STM32F042T6Yx
+D ARM Cortex-M0, 32 KB Flash, 6 KB RAM, 30 IO Pins, 48 MHz, 2V-3.6V, WLCSP36
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00105814.pdf
+$ENDCMP
+#
+$CMP STM32F048C6Ux
+D ARM Cortex-M0, 32 KB Flash, 6 KB RAM, 37 IO Pins, 48 MHz, 1.65V-1.95V, UFQFPN48
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00109264.pdf
+$ENDCMP
+#
+$CMP STM32F048G6Ux
+D ARM Cortex-M0, 32 KB Flash, 6 KB RAM, 22 IO Pins, 48 MHz, 1.65V-1.95V, UFQFPN28
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00109264.pdf
+$ENDCMP
+#
+$CMP STM32F048T6Yx
+D ARM Cortex-M0, 32 KB Flash, 6 KB RAM, 29 IO Pins, 48 MHz, 1.65V-1.95V, WLCSP36
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00109264.pdf
+$ENDCMP
+#
+$CMP STM32F051C4Tx
+D ARM Cortex-M0, 16 KB Flash, 8 KB RAM, 39 IO Pins, 48 MHz, 2V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F051C4Ux
+D ARM Cortex-M0, 16 KB Flash, 8 KB RAM, 39 IO Pins, 48 MHz, 2V-3.6V, UFQFPN48
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F051C6Tx
+D ARM Cortex-M0, 32 KB Flash, 8 KB RAM, 39 IO Pins, 48 MHz, 2V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F051C6Ux
+D ARM Cortex-M0, 32 KB Flash, 8 KB RAM, 39 IO Pins, 48 MHz, 2V-3.6V, UFQFPN48
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F051C8Tx
+D ARM Cortex-M0, 64 KB Flash, 8 KB RAM, 39 IO Pins, 48 MHz, 2V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F051C8Ux
+D ARM Cortex-M0, 64 KB Flash, 8 KB RAM, 39 IO Pins, 48 MHz, 2V-3.6V, UFQFPN48
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F051K4Tx
+D ARM Cortex-M0, 16 KB Flash, 8 KB RAM, 25 IO Pins, 48 MHz, 2V-3.6V, LQFP32
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F051K4Ux
+D ARM Cortex-M0, 16 KB Flash, 8 KB RAM, 27 IO Pins, 48 MHz, 2V-3.6V, UFQFPN32
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F051K6Tx
+D ARM Cortex-M0, 32 KB Flash, 8 KB RAM, 25 IO Pins, 48 MHz, 2V-3.6V, LQFP32
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F051K6Ux
+D ARM Cortex-M0, 32 KB Flash, 8 KB RAM, 27 IO Pins, 48 MHz, 2V-3.6V, UFQFPN32
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F051K8Tx
+D ARM Cortex-M0, 64 KB Flash, 8 KB RAM, 25 IO Pins, 48 MHz, 2V-3.6V, LQFP32
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F051K8Ux
+D ARM Cortex-M0, 64 KB Flash, 8 KB RAM, 27 IO Pins, 48 MHz, 2V-3.6V, UFQFPN32
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F051R4Tx
+D ARM Cortex-M0, 16 KB Flash, 8 KB RAM, 55 IO Pins, 48 MHz, 2V-3.6V, LQFP64
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F051R6Tx
+D ARM Cortex-M0, 32 KB Flash, 8 KB RAM, 55 IO Pins, 48 MHz, 2V-3.6V, LQFP64
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F051R8Hx
+D ARM Cortex-M0, 64 KB Flash, 8 KB RAM, 55 IO Pins, 48 MHz, 2V-3.6V, UFBGA64
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F051R8Tx
+D ARM Cortex-M0, 64 KB Flash, 8 KB RAM, 55 IO Pins, 48 MHz, 2V-3.6V, LQFP64
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F051T8Yx
+D ARM Cortex-M0, 64 KB Flash, 8 KB RAM, 29 IO Pins, 48 MHz, 2V-3.6V, WLCSP36
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+$CMP STM32F058C8Ux
+D ARM Cortex-M0, 64 KB Flash, 8 KB RAM, 38 IO Pins, 48 MHz, 1.65V-1.95V, UFQFPN48
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00059126.pdf
+$ENDCMP
+#
+$CMP STM32F058R8Hx
+D ARM Cortex-M0, 64 KB Flash, 8 KB RAM, 54 IO Pins, 48 MHz, 1.65V-1.95V, UFBGA64
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00059126.pdf
+$ENDCMP
+#
+$CMP STM32F058R8Tx
+D ARM Cortex-M0, 64 KB Flash, 8 KB RAM, 54 IO Pins, 48 MHz, 1.65V-1.95V, LQFP64
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00059126.pdf
+$ENDCMP
+#
+$CMP STM32F058T8Yx
+D ARM Cortex-M0, 64 KB Flash, 8 KB RAM, 28 IO Pins, 48 MHz, 1.65V-1.95V, WLCSP36
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00059126.pdf
+$ENDCMP
+#
+$CMP STM32F070C6Tx
+D ARM Cortex-M0, 32 KB Flash, 6 KB RAM, 37 IO Pins, 48 MHz, 2.4V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x0 Value Line
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00141386.pdf
+$ENDCMP
+#
+$CMP STM32F070CBTx
+D ARM Cortex-M0, 128 KB Flash, 16 KB RAM, 37 IO Pins, 48 MHz, 2.4V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x0 Value Line
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00141386.pdf
+$ENDCMP
+#
+$CMP STM32F070F6Px
+D ARM Cortex-M0, 32 KB Flash, 6 KB RAM, 15 IO Pins, 48 MHz, 2.4V-3.6V, TSSOP20
+K ARM Cortex-M0 STM32F0 STM32F0x0 Value Line
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00141386.pdf
+$ENDCMP
+#
+$CMP STM32F070RBTx
+D ARM Cortex-M0, 128 KB Flash, 16 KB RAM, 51 IO Pins, 48 MHz, 2.4V-3.6V, LQFP64
+K ARM Cortex-M0 STM32F0 STM32F0x0 Value Line
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00141386.pdf
+$ENDCMP
+#
+$CMP STM32F071CBTx
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 37 IO Pins, 48 MHz, 2V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00098745.pdf
+$ENDCMP
+#
+$CMP STM32F071C8Tx
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 37 IO Pins, 48 MHz, 2V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00098745.pdf
+$ENDCMP
+#
+$CMP STM32F071C8Ux
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 37 IO Pins, 48 MHz, 2V-3.6V, UFQFPN48
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00098745.pdf
+$ENDCMP
+#
+$CMP STM32F071CBUx
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 37 IO Pins, 48 MHz, 2V-3.6V, UFQFPN48
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00098745.pdf
+$ENDCMP
+#
+$CMP STM32F071CBYx
+D ARM Cortex-M0, 128 KB Flash, 16 KB RAM, 37 IO Pins, 48 MHz, 2V-3.6V, WLCSP49
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00098745.pdf
+$ENDCMP
+#
+$CMP STM32F071RBTx
+D ARM Cortex-M0, 128 KB Flash, 16 KB RAM, 51 IO Pins, 48 MHz, 2V-3.6V, LQFP64
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00098745.pdf
+$ENDCMP
+#
+$CMP STM32F071V8Hx
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 87 IO Pins, 48 MHz, 2V-3.6V, UFBGA100
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00098745.pdf
+$ENDCMP
+#
+$CMP STM32F071VBHx
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 87 IO Pins, 48 MHz, 2V-3.6V, UFBGA100
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00098745.pdf
+$ENDCMP
+#
+$CMP STM32F071V8Tx
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 87 IO Pins, 48 MHz, 2V-3.6V, LQFP100
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00098745.pdf
+$ENDCMP
+#
+$CMP STM32F071VBTx
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 87 IO Pins, 48 MHz, 2V-3.6V, LQFP100
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00098745.pdf
+$ENDCMP
+#
+$CMP STM32F072C8Tx
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 37 IO Pins, 48 MHz, 2V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf
+$ENDCMP
+#
+$CMP STM32F072CBTx
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 37 IO Pins, 48 MHz, 2V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf
+$ENDCMP
+#
+$CMP STM32F072CBUx
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 37 IO Pins, 48 MHz, 2V-3.6V, UFQFPN48
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf
+$ENDCMP
+#
+$CMP STM32F072C8Ux
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 37 IO Pins, 48 MHz, 2V-3.6V, UFQFPN48
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf
+$ENDCMP
+#
+$CMP STM32F072CBYx
+D ARM Cortex-M0, 128 KB Flash, 16 KB RAM, 37 IO Pins, 48 MHz, 2V-3.6V, WLCSP49
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf
+$ENDCMP
+#
+$CMP STM32F072RBTx
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 51 IO Pins, 48 MHz, 2V-3.6V, LQFP64
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf
+$ENDCMP
+#
+$CMP STM32F072R8Tx
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 51 IO Pins, 48 MHz, 2V-3.6V, LQFP64
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf
+$ENDCMP
+#
+$CMP STM32F072RBHx
+D ARM Cortex-M0, 128 KB Flash, 16 KB RAM, 51 IO Pins, 48 MHz, 2V-3.6V, UFBGA64
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf
+$ENDCMP
+#
+$CMP STM32F072RBIx
+D ARM Cortex-M0, 128 KB Flash, 16 KB RAM, 51 IO Pins, 48 MHz, 2V-3.6V, UFBGA64
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf
+$ENDCMP
+#
+$CMP STM32F072VBHx
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 87 IO Pins, 48 MHz, 2V-3.6V, UFBGA100
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf
+$ENDCMP
+#
+$CMP STM32F072V8Hx
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 87 IO Pins, 48 MHz, 2V-3.6V, UFBGA100
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf
+$ENDCMP
+#
+$CMP STM32F072VBTx
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 87 IO Pins, 48 MHz, 2V-3.6V, LQFP100
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf
+$ENDCMP
+#
+$CMP STM32F072V8Tx
+D ARM Cortex-M0, 64 KB Flash, 16 KB RAM, 87 IO Pins, 48 MHz, 2V-3.6V, LQFP100
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf
+$ENDCMP
+#
+$CMP STM32F078CBTx
+D ARM Cortex-M0, 128 KB Flash, 16 KB RAM, 36 IO Pins, 48 MHz, 1.65V-1.95V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00109263.pdf
+$ENDCMP
+#
+$CMP STM32F078CBUx
+D ARM Cortex-M0, 128 KB Flash, 16 KB RAM, 36 IO Pins, 48 MHz, 1.65V-1.95V, UFQFPN48
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00109263.pdf
+$ENDCMP
+#
+$CMP STM32F078CBYx
+D ARM Cortex-M0, 128 KB Flash, 16 KB RAM, 36 IO Pins, 48 MHz, 1.65V-1.95V, WLCSP49
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00109263.pdf
+$ENDCMP
+#
+$CMP STM32F078RBHx
+D ARM Cortex-M0, 128 KB Flash, 16 KB RAM, 50 IO Pins, 48 MHz, 1.65V-1.95V, UFBGA64
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00109263.pdf
+$ENDCMP
+#
+$CMP STM32F078RBTx
+D ARM Cortex-M0, 128 KB Flash, 16 KB RAM, 50 IO Pins, 48 MHz, 1.65V-1.95V, LQFP64
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00109263.pdf
+$ENDCMP
+#
+$CMP STM32F078VBHx
+D ARM Cortex-M0, 128 KB Flash, 16 KB RAM, 86 IO Pins, 48 MHz, 1.65V-1.95V, UFBGA100
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00109263.pdf
+$ENDCMP
+#
+$CMP STM32F078VBTx
+D ARM Cortex-M0, 128 KB Flash, 16 KB RAM, 86 IO Pins, 48 MHz, 1.65V-1.95V, LQFP100
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00109263.pdf
+$ENDCMP
+#
+$CMP STM32F091CCTx
+D ARM Cortex-M0, 128 KB Flash, 32 KB RAM, 38 IO Pins, 48 MHz, 2V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115237.pdf
+$ENDCMP
+#
+$CMP STM32F091CBTx
+D ARM Cortex-M0, 128 KB Flash, 32 KB RAM, 38 IO Pins, 48 MHz, 2V-3.6V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115237.pdf
+$ENDCMP
+#
+$CMP STM32F091CCUx
+D ARM Cortex-M0, 128 KB Flash, 32 KB RAM, 38 IO Pins, 48 MHz, 2V-3.6V, UFQFPN48
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115237.pdf
+$ENDCMP
+#
+$CMP STM32F091CBUx
+D ARM Cortex-M0, 128 KB Flash, 32 KB RAM, 38 IO Pins, 48 MHz, 2V-3.6V, UFQFPN48
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115237.pdf
+$ENDCMP
+#
+$CMP STM32F091RBTx
+D ARM Cortex-M0, 128 KB Flash, 32 KB RAM, 52 IO Pins, 48 MHz, 2V-3.6V, LQFP64
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115237.pdf
+$ENDCMP
+#
+$CMP STM32F091RCTx
+D ARM Cortex-M0, 128 KB Flash, 32 KB RAM, 52 IO Pins, 48 MHz, 2V-3.6V, LQFP64
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115237.pdf
+$ENDCMP
+#
+$CMP STM32F091RCHx
+D ARM Cortex-M0, 256 KB Flash, 32 KB RAM, 52 IO Pins, 48 MHz, 2V-3.6V, UFBGA64
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115237.pdf
+$ENDCMP
+#
+$CMP STM32F091RCYx
+D ARM Cortex-M0, 256 KB Flash, 32 KB RAM, 52 IO Pins, 48 MHz, 2V-3.6V, WLCSP64
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115237.pdf
+$ENDCMP
+#
+$CMP STM32F091VBTx
+D ARM Cortex-M0, 128 KB Flash, 32 KB RAM, 88 IO Pins, 48 MHz, 2V-3.6V, LQFP100
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115237.pdf
+$ENDCMP
+#
+$CMP STM32F091VCTx
+D ARM Cortex-M0, 128 KB Flash, 32 KB RAM, 88 IO Pins, 48 MHz, 2V-3.6V, LQFP100
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115237.pdf
+$ENDCMP
+#
+$CMP STM32F091VCHx
+D ARM Cortex-M0, 256 KB Flash, 32 KB RAM, 88 IO Pins, 48 MHz, 2V-3.6V, UFBGA100
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115237.pdf
+$ENDCMP
+#
+$CMP STM32F098CCTx
+D ARM Cortex-M0, 256 KB Flash, 32 KB RAM, 37 IO Pins, 48 MHz, 1.65V-1.95V, LQFP48
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00135027.pdf
+$ENDCMP
+#
+$CMP STM32F098CCUx
+D ARM Cortex-M0, 256 KB Flash, 32 KB RAM, 37 IO Pins, 48 MHz, 1.65V-1.95V, UFQFPN48
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00135027.pdf
+$ENDCMP
+#
+$CMP STM32F098RCHx
+D ARM Cortex-M0, 256 KB Flash, 32 KB RAM, 51 IO Pins, 48 MHz, 1.65V-1.95V, UFBGA64
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00135027.pdf
+$ENDCMP
+#
+$CMP STM32F098RCTx
+D ARM Cortex-M0, 256 KB Flash, 32 KB RAM, 51 IO Pins, 48 MHz, 1.65V-1.95V, LQFP64
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00135027.pdf
+$ENDCMP
+#
+$CMP STM32F098RCYx
+D ARM Cortex-M0, 256 KB Flash, 32 KB RAM, 51 IO Pins, 48 MHz, 1.65V-1.95V, WLCSP64
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00135027.pdf
+$ENDCMP
+#
+$CMP STM32F098VCTx
+D ARM Cortex-M0, 256 KB Flash, 32 KB RAM, 87 IO Pins, 48 MHz, 1.65V-1.95V, LQFP100
+K ARM Cortex-M0 STM32F0 STM32F0x8
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00135027.pdf
+$ENDCMP
+#
+#End Doc Library

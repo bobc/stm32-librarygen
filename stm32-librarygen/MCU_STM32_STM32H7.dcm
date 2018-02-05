@@ -1,0 +1,123 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32H743AIIx
+D ARM Cortex-M7, 1024 KB Flash, 864 KB RAM, 132 IO Pins, 400 MHz, 1.7V-3.6V, UFBGA169
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32H743AGIx
+D ARM Cortex-M7, 1024 KB Flash, 864 KB RAM, 132 IO Pins, 400 MHz, 1.7V-3.6V, UFBGA169
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32H743BITx
+D ARM Cortex-M7, 2048 KB Flash, 864 KB RAM, 168 IO Pins, 400 MHz, 1.7V-3.6V, LQFP208
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00387108.pdf
+$ENDCMP
+#
+$CMP STM32H743IIKx
+D ARM Cortex-M7, 2048 KB Flash, 864 KB RAM, 140 IO Pins, 400 MHz, 1.7V-3.6V, UFBGA176
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00387108.pdf
+$ENDCMP
+#
+$CMP STM32H743IITx
+D ARM Cortex-M7, 2048 KB Flash, 864 KB RAM, 140 IO Pins, 400 MHz, 1.7V-3.6V, LQFP176
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00387108.pdf
+$ENDCMP
+#
+$CMP STM32H743VGHx
+D ARM Cortex-M7, 1024 KB Flash, 864 KB RAM, 82 IO Pins, 400 MHz, 1.7V-3.6V, TFBGA100
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32H743VIHx
+D ARM Cortex-M7, 1024 KB Flash, 864 KB RAM, 82 IO Pins, 400 MHz, 1.7V-3.6V, TFBGA100
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32H743VITx
+D ARM Cortex-M7, 2048 KB Flash, 864 KB RAM, 82 IO Pins, 400 MHz, 1.7V-3.6V, LQFP100
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00387108.pdf
+$ENDCMP
+#
+$CMP STM32H743XIHx
+D ARM Cortex-M7, 2048 KB Flash, 864 KB RAM, 168 IO Pins, 400 MHz, 1.7V-3.6V, TFBGA240
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00387108.pdf
+$ENDCMP
+#
+$CMP STM32H743ZITx
+D ARM Cortex-M7, 2048 KB Flash, 864 KB RAM, 114 IO Pins, 400 MHz, 1.7V-3.6V, LQFP144
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00387108.pdf
+$ENDCMP
+#
+$CMP STM32H753AGIx
+D ARM Cortex-M7, 1024 KB Flash, 864 KB RAM, 132 IO Pins, 400 MHz, 1.7V-3.6V, UFBGA169
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32H753AIIx
+D ARM Cortex-M7, 1024 KB Flash, 864 KB RAM, 132 IO Pins, 400 MHz, 1.7V-3.6V, UFBGA169
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32H753BITx
+D ARM Cortex-M7, 2048 KB Flash, 864 KB RAM, 168 IO Pins, 400 MHz, 1.7V-3.6V, LQFP208
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00388325.pdf
+$ENDCMP
+#
+$CMP STM32H753IIKx
+D ARM Cortex-M7, 2048 KB Flash, 864 KB RAM, 140 IO Pins, 400 MHz, 1.7V-3.6V, UFBGA176
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00388325.pdf
+$ENDCMP
+#
+$CMP STM32H753IITx
+D ARM Cortex-M7, 2048 KB Flash, 864 KB RAM, 140 IO Pins, 400 MHz, 1.7V-3.6V, LQFP176
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00388325.pdf
+$ENDCMP
+#
+$CMP STM32H753VGHx
+D ARM Cortex-M7, 1024 KB Flash, 864 KB RAM, 82 IO Pins, 400 MHz, 1.7V-3.6V, TFBGA100
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32H753VIHx
+D ARM Cortex-M7, 1024 KB Flash, 864 KB RAM, 82 IO Pins, 400 MHz, 1.7V-3.6V, TFBGA100
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32H753VITx
+D ARM Cortex-M7, 2048 KB Flash, 864 KB RAM, 82 IO Pins, 400 MHz, 1.7V-3.6V, LQFP100
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00388325.pdf
+$ENDCMP
+#
+$CMP STM32H753XIHx
+D ARM Cortex-M7, 2048 KB Flash, 864 KB RAM, 168 IO Pins, 400 MHz, 1.7V-3.6V, TFBGA240
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00388325.pdf
+$ENDCMP
+#
+$CMP STM32H753ZITx
+D ARM Cortex-M7, 2048 KB Flash, 864 KB RAM, 114 IO Pins, 400 MHz, 1.7V-3.6V, LQFP144
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00388325.pdf
+$ENDCMP
+#
+#End Doc Library

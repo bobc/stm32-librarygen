@@ -1,0 +1,219 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32L4R5AGIx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 136 IO Pins, 120 MHz, 1.71V-3.6V, UFBGA169
+K ARM Cortex-M4 STM32L4+ STM32L4R5/S5
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf
+$ENDCMP
+#
+$CMP STM32L4R5AIIx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 136 IO Pins, 120 MHz, 1.71V-3.6V, UFBGA169
+K ARM Cortex-M4 STM32L4+ STM32L4R5/S5
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf
+$ENDCMP
+#
+$CMP STM32L4R5QGIx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 110 IO Pins, 120 MHz, 1.71V-3.6V, UFBGA132
+K ARM Cortex-M4 STM32L4+ STM32L4R5/S5
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf
+$ENDCMP
+#
+$CMP STM32L4R5QIIx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 110 IO Pins, 120 MHz, 1.71V-3.6V, UFBGA132
+K ARM Cortex-M4 STM32L4+ STM32L4R5/S5
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf
+$ENDCMP
+#
+$CMP STM32L4R5VITx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 83 IO Pins, 120 MHz, 1.71V-3.6V, LQFP100
+K ARM Cortex-M4 STM32L4+ STM32L4R5/S5
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf
+$ENDCMP
+#
+$CMP STM32L4R5VGTx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 83 IO Pins, 120 MHz, 1.71V-3.6V, LQFP100
+K ARM Cortex-M4 STM32L4+ STM32L4R5/S5
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf
+$ENDCMP
+#
+$CMP STM32L4R5ZGTx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 115 IO Pins, 120 MHz, 1.71V-3.6V, LQFP144
+K ARM Cortex-M4 STM32L4+ STM32L4R5/S5
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf
+$ENDCMP
+#
+$CMP STM32L4R5ZITx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 115 IO Pins, 120 MHz, 1.71V-3.6V, LQFP144
+K ARM Cortex-M4 STM32L4+ STM32L4R5/S5
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf
+$ENDCMP
+#
+$CMP STM32L4R5ZGYx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 110 IO Pins, 120 MHz, 1.71V-3.6V, WLCSP144
+K ARM Cortex-M4 STM32L4+ STM32L4R5/S5
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf
+$ENDCMP
+#
+$CMP STM32L4R5ZIYx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 110 IO Pins, 120 MHz, 1.71V-3.6V, WLCSP144
+K ARM Cortex-M4 STM32L4+ STM32L4R5/S5
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf
+$ENDCMP
+#
+$CMP STM32L4R7AIIx
+D ARM Cortex-M4, 2048 KB Flash, 640 KB RAM, 136 IO Pins, 120 MHz, 1.71V-3.6V, UFBGA169
+K ARM Cortex-M4 STM32L4+ STM32L4R7/S7
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf
+$ENDCMP
+#
+$CMP STM32L4R7VITx
+D ARM Cortex-M4, 2048 KB Flash, 640 KB RAM, 83 IO Pins, 120 MHz, 1.71V-3.6V, LQFP100
+K ARM Cortex-M4 STM32L4+ STM32L4R7/S7
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf
+$ENDCMP
+#
+$CMP STM32L4R7ZITx
+D ARM Cortex-M4, 2048 KB Flash, 640 KB RAM, 115 IO Pins, 120 MHz, 1.71V-3.6V, LQFP144
+K ARM Cortex-M4 STM32L4+ STM32L4R7/S7
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf
+$ENDCMP
+#
+$CMP STM32L4R9AGIx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 131 IO Pins, 120 MHz, 1.71V-3.6V, UFBGA169
+K ARM Cortex-M4 STM32L4+ STM32L4R9/S9
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32L4R9AIIx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 131 IO Pins, 120 MHz, 1.71V-3.6V, UFBGA169
+K ARM Cortex-M4 STM32L4+ STM32L4R9/S9
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32L4R9VGTx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 77 IO Pins, 120 MHz, 1.71V-3.6V, LQFP100
+K ARM Cortex-M4 STM32L4+ STM32L4R9/S9
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32L4R9VITx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 77 IO Pins, 120 MHz, 1.71V-3.6V, LQFP100
+K ARM Cortex-M4 STM32L4+ STM32L4R9/S9
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32L4R9ZGJx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 112 IO Pins, 120 MHz, 1.71V-3.6V, UFBGA144
+K ARM Cortex-M4 STM32L4+ STM32L4R9/S9
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32L4R9ZIJx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 112 IO Pins, 120 MHz, 1.71V-3.6V, UFBGA144
+K ARM Cortex-M4 STM32L4+ STM32L4R9/S9
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32L4R9ZITx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 110 IO Pins, 120 MHz, 1.71V-3.6V, LQFP144
+K ARM Cortex-M4 STM32L4+ STM32L4R9/S9
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32L4R9ZGTx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 110 IO Pins, 120 MHz, 1.71V-3.6V, LQFP144
+K ARM Cortex-M4 STM32L4+ STM32L4R9/S9
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32L4R9ZGYx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 110 IO Pins, 120 MHz, 1.71V-3.6V, WLCSP144
+K ARM Cortex-M4 STM32L4+ STM32L4R9/S9
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32L4R9ZIYx
+D ARM Cortex-M4, 1024 KB Flash, 640 KB RAM, 110 IO Pins, 120 MHz, 1.71V-3.6V, WLCSP144
+K ARM Cortex-M4 STM32L4+ STM32L4R9/S9
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32L4S5AIIx
+D ARM Cortex-M4, 2048 KB Flash, 640 KB RAM, 136 IO Pins, 120 MHz, 1.71V-3.6V, UFBGA169
+K ARM Cortex-M4 STM32L4+ STM32L4R5/S5
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366449.pdf
+$ENDCMP
+#
+$CMP STM32L4S5QIIx
+D ARM Cortex-M4, 2048 KB Flash, 640 KB RAM, 110 IO Pins, 120 MHz, 1.71V-3.6V, UFBGA132
+K ARM Cortex-M4 STM32L4+ STM32L4R5/S5
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366449.pdf
+$ENDCMP
+#
+$CMP STM32L4S5VITx
+D ARM Cortex-M4, 2048 KB Flash, 640 KB RAM, 83 IO Pins, 120 MHz, 1.71V-3.6V, LQFP100
+K ARM Cortex-M4 STM32L4+ STM32L4R5/S5
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366449.pdf
+$ENDCMP
+#
+$CMP STM32L4S5ZITx
+D ARM Cortex-M4, 2048 KB Flash, 640 KB RAM, 115 IO Pins, 120 MHz, 1.71V-3.6V, LQFP144
+K ARM Cortex-M4 STM32L4+ STM32L4R5/S5
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366449.pdf
+$ENDCMP
+#
+$CMP STM32L4S5ZIYx
+D ARM Cortex-M4, 2048 KB Flash, 640 KB RAM, 110 IO Pins, 120 MHz, 1.71V-3.6V, WLCSP144
+K ARM Cortex-M4 STM32L4+ STM32L4R5/S5
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366449.pdf
+$ENDCMP
+#
+$CMP STM32L4S7AIIx
+D ARM Cortex-M4, 2048 KB Flash, 640 KB RAM, 136 IO Pins, 120 MHz, 1.71V-3.6V, UFBGA169
+K ARM Cortex-M4 STM32L4+ STM32L4R7/S7
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366449.pdf
+$ENDCMP
+#
+$CMP STM32L4S7VITx
+D ARM Cortex-M4, 2048 KB Flash, 640 KB RAM, 83 IO Pins, 120 MHz, 1.71V-3.6V, LQFP100
+K ARM Cortex-M4 STM32L4+ STM32L4R7/S7
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366449.pdf
+$ENDCMP
+#
+$CMP STM32L4S7ZITx
+D ARM Cortex-M4, 2048 KB Flash, 640 KB RAM, 115 IO Pins, 120 MHz, 1.71V-3.6V, LQFP144
+K ARM Cortex-M4 STM32L4+ STM32L4R7/S7
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366449.pdf
+$ENDCMP
+#
+$CMP STM32L4S9AIIx
+D ARM Cortex-M4, 2048 KB Flash, 640 KB RAM, 131 IO Pins, 120 MHz, 1.71V-3.6V, UFBGA169
+K ARM Cortex-M4 STM32L4+ STM32L4R9/S9
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32L4S9VITx
+D ARM Cortex-M4, 2048 KB Flash, 640 KB RAM, 77 IO Pins, 120 MHz, 1.71V-3.6V, LQFP100
+K ARM Cortex-M4 STM32L4+ STM32L4R9/S9
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32L4S9ZIJx
+D ARM Cortex-M4, 2048 KB Flash, 640 KB RAM, 112 IO Pins, 120 MHz, 1.71V-3.6V, UFBGA144
+K ARM Cortex-M4 STM32L4+ STM32L4R9/S9
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32L4S9ZITx
+D ARM Cortex-M4, 2048 KB Flash, 640 KB RAM, 110 IO Pins, 120 MHz, 1.71V-3.6V, LQFP144
+K ARM Cortex-M4 STM32L4+ STM32L4R9/S9
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+$CMP STM32L4S9ZIYx
+D ARM Cortex-M4, 2048 KB Flash, 640 KB RAM, 110 IO Pins, 120 MHz, 1.71V-3.6V, WLCSP144
+K ARM Cortex-M4 STM32L4+ STM32L4R9/S9
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/
+$ENDCMP
+#
+#End Doc Library
